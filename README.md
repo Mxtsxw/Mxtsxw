@@ -6,7 +6,7 @@ I am Matthieu 👋 I'm an **AI Enthusiast** with a strong foundation in **Data S
 
 - 🎓 **Engineering Degree**: Computer Science
 - 🎓 **Master's Degree**: Artificial Intelligence and Data Science
-- 🌐 **Specialties**: Data Science, Machine Learning, and AI Solutions
+- 🌐 **Specialties**: Data Science, Machine Learning, and Computer Vision
 
 ## 🛠️ Technologies & Tools
 
