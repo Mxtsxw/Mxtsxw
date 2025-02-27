@@ -32,4 +32,3 @@ I am Matthieu 👋 I'm an **AI Enthusiast** with a strong foundation in **Data S
 
 ## 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mxtsxw&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/></div>
--->
