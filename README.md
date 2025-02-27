@@ -25,7 +25,6 @@ I am Matthieu 👋 I'm an **AI Enthusiast** with a strong foundation in **Data S
 
 ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2E8B57?style=for-the-badge)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-4169E1?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-DAA520?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6347?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs_&_NLP-DC143C?style=for-the-badge)
