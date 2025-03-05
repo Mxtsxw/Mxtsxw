@@ -2,7 +2,7 @@
 
 ## ✨ About Me
 
-I am Matthieu 👋 I'm an **AI Enthusiast** with a strong foundation in **Data Science** and **Machine Learning**. With hands-on experience in **Python** and **PyTorch**, I specialize in transforming data into actionable insights. I'm passionate about leveraging AI to solve real-world challenges and constantly exploring the latest advancements in **Deep Learning**.
+I am Matthieu 👋 I'm an **AI Enthusiast** with a strong foundation in **Data Science** and **Machine Learning**. With hands-on experience in **Python**, **Scikit-learn** and **PyTorch**, I specialize in transforming data into actionable insights. I'm passionate about leveraging AI to solve real-world challenges and constantly exploring the latest advancements in **Deep Learning**.
 
 - 🎓 **Engineering Degree**: Computer Science
 - 🎓 **Master's Degree**: Artificial Intelligence and Data Science
