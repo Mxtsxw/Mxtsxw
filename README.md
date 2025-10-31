@@ -28,6 +28,8 @@ I am Matthieu 👋 I'm an **AI Enthusiast** with a strong foundation in **Data S
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6347?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs_&_NLP-DC143C?style=for-the-badge)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-4169E1?style=for-the-badge)
+
 
 
 ## 📈 GitHub Stats
