@@ -7,6 +7,25 @@ I am Matthieu 👋 I'm a Data Scientist with proven experience in predictive mod
 - 🎓 Master's Degree: Artificial Intelligence and Data Science
 - 🌐 Specialties: Predictive Modeling, Machine Learning, and Computer Vision
 
+**DS/ML Projects**:
+
+[Email Spam Detection using Enron Dataset](https://github.com/Mxtsxw/Email-Spam-Detection)
+
+[Titanic Survival Forecast with API](https://github.com/Mxtsxw/Titanic-ML-API)
+
+[Diagnosis of COVID-19 and Its Clinical Spectrum](https://github.com/Mxtsxw/COVID-19-ML-API)
+
+**Deep Learning Projects**:
+
+[Video Character Detection using Yunet/OpenCV](https://github.com/Mxtsxw/CV-Character-Detection)
+
+[Video Gesture Transfer using GAN Architecture](https://github.com/Mxtsxw/Gesture-Transfer-ML)
+
+[Neural Style Transfer using Pytorch](https://github.com/Mxtsxw/Neural-Style-Transfer)
+
+[MNIST Digit Classification](https://github.com/Mxtsxw/MNIST-Classification)
+
+
 ## 🛠️ Technologies & Tools
 
 **Languages**
