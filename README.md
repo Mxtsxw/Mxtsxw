@@ -11,6 +11,9 @@ I am Matthieu 👋 I'm a Data Scientist with proven experience in predictive mod
 
 [Portfolio Assets Allocation Optimization](https://github.com/Mxtsxw/ModernPortfolioOptimization)
 
+[Fraud Detection System w/ Streamlit Dashboard](https://github.com/Mxtsxw/Fraud-Detection)
+
+
 **DS/ML Projects**:
 
 [Email Spam Detection using Enron Dataset](https://github.com/Mxtsxw/Email-Spam-Detection)
