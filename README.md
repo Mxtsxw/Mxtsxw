@@ -16,11 +16,13 @@ I am Matthieu 👋 I'm a Data Scientist with proven experience in predictive mod
 
 **DS/ML Projects**:
 
+[Diagnosis of COVID-19 and Its Clinical Spectrum](https://github.com/Mxtsxw/COVID-19-ML-API)
+
+[NLP - Website Page Classification w/ Streamlit Dashboard](https://github.com/Mxtsxw/NLP-Website-Classification)
+
 [Email Spam Detection using Enron Dataset](https://github.com/Mxtsxw/Email-Spam-Detection)
 
 [Titanic Survival Forecast with API](https://github.com/Mxtsxw/Titanic-ML-API)
-
-[Diagnosis of COVID-19 and Its Clinical Spectrum](https://github.com/Mxtsxw/COVID-19-ML-API)
 
 **Deep Learning Projects**:
 
