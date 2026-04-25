@@ -34,6 +34,10 @@ I am Matthieu 👋 I'm a Data Scientist with proven experience in predictive mod
 
 [MNIST Digit Classification](https://github.com/Mxtsxw/MNIST-Classification)
 
+**Some of my Software Engineering Projects**:
+
+[Finance Pilot - Budgeting and portfolio allocations tools](https://github.com/Mxtsxw/FinancePilot)
+
 ***Some of my Blog Articles***
 
 [What My Internship at a Major Automotive Company Taught Me About the Reality of Data Science](https://medium.com/@randriantsoamatthieu/what-my-internship-at-a-major-automotive-company-taught-me-about-the-reality-of-data-science-0c36bd7bd3d8)
